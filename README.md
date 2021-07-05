@@ -3,9 +3,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://i.pinimg.com/474x/ee/4b/ec/ee4bec98e284c251b885707a470ad3b8.jpg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://mpng.subpng.com/20180804/tcv/-5b73abb43915c2.95470987153430725223382013.jpg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -42,6 +42,7 @@
 <a href="https://github.com/ushan1997">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ushan1997&show_icons=true&theme=light&line_height=27" alt="ushan's github stats"/>
 </a>
+
 
 
 <a href="https://github.com/ushan1997">
