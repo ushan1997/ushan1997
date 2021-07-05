@@ -39,8 +39,9 @@
 ---
 <br/>
 <a href="https://github.com/ushan1997">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ushan1997&show_icons=true&theme=light&line_height=27" alt="ushan's github stats"/>
 </a>
+
 ---
 ### 📺 Latest YouTube Videos
 
