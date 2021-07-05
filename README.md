@@ -45,6 +45,10 @@
 
 ---
 
+<a href="https://github.com/ushan1997">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushan1997&theme=light&hide_langs_below=1" />
+</a>
+
 
 [linkedin]: https://www.linkedin.com/in/ushan-gunaratne-a002401b3/
 [twitter]: https://twitter.com/UshanGunaratne
