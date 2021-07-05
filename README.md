@@ -45,7 +45,7 @@
 
 
 <a href="https://github.com/ushan1997">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushan1997&theme=light&hide_langs_below=1" />
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushan1997&exclude_repo=kvasir,machine-learning&langs_count=9&layout=compact&hide=CSS,PHP" />
 </a>
 
 
